@@ -1,3 +1,4 @@
+// variables et concatenations
 <!DOCTYPE html>
 <html lang="fr">
 <head>
