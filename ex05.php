@@ -1,3 +1,4 @@
+// conditions et notes
 <!DOCTYPE html>
 <html lang="fr">
 <head>
