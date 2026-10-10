@@ -1,23 +1,20 @@
 <!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>TP 02 PHP</title>
-</head>
+<html>
+<head><meta charset="UTF-8"><title>TP02 - OUAALLA NADIA</title></head>
 <body>
-    <h1>TP 02 - Programmation Web 2</h1>
-    <ul>
-        <li><a href="ex01.php">Exercice 1</a></li>
-        <li><a href="ex02.php">Exercice 2</a></li>
-        <li><a href="ex03.php">Exercice 3</a></li>
-        <li><a href="ex04.php">Exercice 4</a></li>
-        <li><a href="ex05.php">Exercice 5</a></li>
-        <li><a href="ex06.php">Exercice 6</a></li>
-        <li><a href="ex07.php">Exercice 7</a></li>
-        <li><a href="ex08.php">Exercice 8</a></li>
-        <li><a href="ex09.php">Exercice 9</a></li>
-        <li><a href="ex10_get.html">Exercice 10 - GET</a></li>
-        <li><a href="ex10_post.html">Exercice 10 - POST</a></li>
-    </ul>
+<h1>TP02 - OUAALLA NADIA - G2</h1>
+<ul>
+<li><a href="ex01.php">Ex01</a></li>
+<li><a href="ex02.php">Ex02</a></li>
+<li><a href="ex03.php">Ex03</a></li>
+<li><a href="ex04.php">Ex04</a></li>
+<li><a href="ex05.php">Ex05</a></li>
+<li><a href="ex06.php">Ex06</a></li>
+<li><a href="ex07.php">Ex07</a></li>
+<li><a href="ex08.php">Ex08</a></li>
+<li><a href="ex09.php">Ex09</a></li>
+<li>Ex10: <a href="ex10_get.html">GET</a> | <a href="ex10_post.html">POST</a></li>
+</ul>
+<p>Lien GitHub: https://github.com/nadiaouaalla/TP02-OUAALLA-NADIA</p>
 </body>
 </html>
