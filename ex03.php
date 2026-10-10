@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">kks
     <title>Exercice 3 - Constantes et calculs</title>
 </head>
 <body>
