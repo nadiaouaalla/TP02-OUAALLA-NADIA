@@ -1,3 +1,4 @@
+// resultat post
 <!DOCTYPE html>
 <html lang="fr">
 <head>
